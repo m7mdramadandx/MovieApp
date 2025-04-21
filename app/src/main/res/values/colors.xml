@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#162853</color>
+    <color name="colorSecondary">#061941</color>
+    <color name="colorAccent">#004852</color>
+    <color name="colorBackground">#F8F8F8</color>
+    <color name="popupBackground">#E6EAEC</color>
+    <color name="link">#135EF2</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="grey">#EFEFEF</color>
+    <color name="white_grey">#FFFFFF</color>
+    <color name="white_silver">#FFFFFF</color>
+    <color name="grey_silver">#595F67</color>
+    <color name="natural_100">#5F676B</color> // disabled color
+    <color name="natural_200">#3B454A</color>
+
+    <color name="text">#212122</color>
+    <color name="subText">#404041</color>
+    <color name="titleColor">#162447</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
