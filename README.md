@@ -7,8 +7,8 @@ an android application provides best movies
 
 ## Screenshots for the App
 
-<img src="screenshots/Screenshot_20250421_042251.jpeg" width=200> <img src="screenshots/Screenshot_20250421_042523.jpeg" width=200> <img src="screenshots/Screenshot_20250421_042541.jpeg" width=200>
+<img src="screenshots/Screenshot_20250421_042251.png" width=200> <img src="screenshots/Screenshot_20250421_042523.png" width=200> <img src="screenshots/Screenshot_20250421_042541.png" width=200>
 
-<img src="screenshots/Screenshot_20250421_042607.jpeg" width=200> <img src="screenshots/Screenshot_20250421_042618.jpeg" width=200> 
+<img src="screenshots/Screenshot_20250421_042607.png" width=200> <img src="screenshots/Screenshot_20250421_042618.png" width=200> 
 
-<img src="screenshots/Screenshot_20250421_042635.jpeg" width=200> 
+<img src="screenshots/Screenshot_20250421_042635.png" width=200> 
